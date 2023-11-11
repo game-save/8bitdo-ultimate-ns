@@ -11,6 +11,7 @@
 
 <순서>
 1. https://web.archive.org/web/20230209193759/https://tempfiles.8bitdo.com/DODO/UltimateBLRR102B1m.zip에서 다운, 압축 해제
+1.1 github에서 바로 받을 경우 : https://github.com/game-save/8bitdo-ultimate-ns/blob/main/UltimateBLRR102B1m.zip
 2. PC에 리시버 연결, 팔얼블은 전원off (리시버-팔얼블 연결된 상태면 진행불가)
 3. 8BitDo_UM_BT_Receiver 실행, USB Update 클릭, 같은 폴더 내 UM_BT_Receiver_V1.02_Beta1.dat 선택
 4. 리시버 업데이트 완료 후, 팔얼블 켜서 리시버에 연결
